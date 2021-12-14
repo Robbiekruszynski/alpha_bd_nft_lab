@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@openzeppelin/contracts": "^4.4.0"
+  },
+  "dependencies": {
+    "truffle": "^5.4.24"
   }
 }
